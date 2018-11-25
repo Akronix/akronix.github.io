@@ -189,3 +189,11 @@ div.footer{
 p.tool {
   font-weight: bold;
 }
+
+/* Communities
+-------------------------------------------------- */
+
+.community {
+  margin: 5px 0px 5px 0px;
+  font-size: large;
+}
