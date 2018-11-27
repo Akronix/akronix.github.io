@@ -197,3 +197,11 @@ p.tool {
   margin: 5px 0px 5px 0px;
   font-size: large;
 }
+
+/* Publications
+-------------------------------------------------- */
+
+.publication {
+  text-align: justify;
+  font-size: medium;
+}
