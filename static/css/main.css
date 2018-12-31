@@ -205,3 +205,10 @@ p.tool {
   text-align: justify;
   font-size: medium;
 }
+
+/* Projects
+-------------------------------------------------- */
+
+.project {
+  text-decoration: underline;
+}
