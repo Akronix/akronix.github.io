@@ -37,7 +37,7 @@ To make the final of the year even more epic, yesterday, 31st of December of 201
 
 As well, yesterday, Bicipark got launched in its beta version :smiley:. I just added it to the projects section, [check it out!]((/projects.html#BiciPark)).
 
-The next year looks promising. I have many exciting plans to do. I'm gonna leave apart the master for a while and finish my contract by April to enjoy real freedom for some time.
+The next year looks promising. I have many exciting plans to do. I'm gonna leave apart the master for a while and finish my contract by April to enjoy &mdash;paraphrasing Alexander Supertramp, May 1992&mdash; _"ultimate freedom"_ for a while.
 
 In the work side, I want to write some insightful findings around the sustanibility of online collaborative communities. Also, I want to get WikiChron to a very high level of potential.
 
