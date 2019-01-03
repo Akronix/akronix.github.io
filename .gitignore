@@ -12,3 +12,7 @@ Gemfile.lock
 # others
 *.swp
 .example
+
+# Bundle build
+vendor/
+.bundle/
