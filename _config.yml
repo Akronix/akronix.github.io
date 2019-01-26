@@ -25,6 +25,9 @@ email: akronix5@gmail.com
 # social
 github: akronix # username
 twitter: Akronix5
+mastodon:
+  user: Akronix
+  server: mastodon.librelabucm.org
 stackoverflow: users/2904315/akronix   #e.g: users/2735833/proton1h1
 
 # other
