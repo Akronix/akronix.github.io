@@ -1,0 +1,28 @@
+---
+layout: post
+title: Re-directing my professional future.
+categories: [Personal]
+tags: [General, life plans, future, master]
+---
+
+As some of you might know, I'm on my second year of an online master of Data Science. In the begining, I didn't plan to study a master after my bachelor. Rather, I wanted to stop studying and dedicate my (life)time to more meaningful things. But life is life, and, I got the opportunity that my job would pay for the master fees. Because I was working in the academia at that time, I found it something reasonable to do because it would open the possibility to develop my career further there.
+
+Since then, _my master studies has been a headache_, a feeling of waste of time (something that I really hate is to feel that I'm wasting my time), a source of insecurities and even, sometimes, a handcuffs which would limit my freedom and opportunities. Plus, since I don't work for the university anymore and &mdash;as of today, still depending on a possible discount I might get&mdash; it could happen that I will have to spend my money on paying the remainig of the master fees too.
+
+In this situation, I really needed a strong motivator to keep doing it. This summer, while I was traveling by bike, I registered for the rest of the courses left to end my master. Probably, I made this decision by a mix of: personal circunstances, the hope of a exciting master thesis, a push from the inertia to finish it and the "peace of mind" that I will get by having something to do the next year (or, rather, something to say I'm doing to the vast society). But, when the time came of the semester to start, it turned out that none of them is a good motivator enough to justify myself spending so much time, effort and money on such a thing. On of top of all of that, I found out that keep studying and paying this master supposes supporting the <s>education</s> indoctrination machine of the system and this is a big incoherence for me. Not until one month ago, after talking with my ex-boss in the academia, I came up with the idea that would make sense out of all of this.
+
+The master should be an enabler for my professional future and future lifestyle that I project in my imagination. Since long time ago, I know that future has to be in the countryside, and, a bit more recently, I figured out that my knowledge and skills in informatics could be the source for the few income that I need to live there. Nowadays, this apparently irreconcilable two things, computers and contryside, is more than possible and many people work remotely from the land or even traveling as ["digital nomads"](https://en.wikipedia.org/wiki/Digital_nomad).
+
+Nonetheless, **I don't want computers to take most of my daily life and life meaning**. It has to be something part-time and part-focus. Currently, most of the jobs of TIC organizations are full-time and they require you full focus and availability the four seasons of the year. This is rather incompatible if you want to also be working outside with the garden, animals and bioconstruction. This is specially true in Summer when the days are long and the load of outside work is bigger; and, even further, if you want to commit to a community or to dedicate time to create a family, raise and educate children.
+
+Data Science is a good fit for this. Tasks don't take the long time of an application development project. You can work on single jobs: do the analysis, get the knowledge and submit it to the payer. Perfect match!
+
+But data science can be applied to a very wide range of topics and purposes (once I heard: "you need an expertise!"). My vision of technology is that it's a tool much more than an end itself and always my aim has been to make my work meaningful for me and for the world in general. My previous work and research on online collaborative communities was a piece of that, _but still not quite there_ and, moreover, I didn't see the actual impact of my work in real society. Nevertheless, I see the ecologist fight very worthy and much more relevant to me in meaningfulness. Hence, I have decided to shift my direction to **environment**, **climate change** and **sustainability** topics. In order to accomplish this, I will look for doing my master thesis on these topics, try to do the GSoC in something relevant to them and, thereafter, try to get a living out of doing audits and _ad-hoc_ analysis on them.
+
+Now, my only concern is that **freelancing in Spain is awfully hard**. You need a lot of safe incomes to make it sustainable in the long term and there's too much uncertainity in this job to know if it would be profitable or not. Time will tell and things can change but, if things don't change, Spain is possibly not the best home to host this lifestyle.
+
+Lastly, I want to talk a bit more about the contryside and my immediate future. My plan is to finally move on and go to live in a village starting the next year. The northern mountains of Madrid or the surroundings of Barcelona are the two options which are in my mind. But I see this as _a transition_ while I finish my master. In the horizon there is still my final aim, which is to live in an **intentional community**.
+
+PD: By the way, We are organizing a meetup in Barcelona to improve Trustroots the last weekend of November: come & join! :smile: [Have a look to the blogpost to get more info and help to spread the word!](https://ideas.trustroots.org/2019/11/11/barcelona-hacking-collective)
+
+PD2: I still have a pending post about all the adventures I lived this summer in my two months and a half trip! Hope to find time to write about it at anytime soon :sweat:.
