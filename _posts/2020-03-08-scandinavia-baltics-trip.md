@@ -46,7 +46,7 @@ Nobody stops in Italy, but they sometimes need to fill the car tank with fuel. B
 
 {% include image.html position="left" height="200px" url="/static/img/posts/hhpack_IT_to_FR.jpg" description="Take me out of Italy, pleeeaseee!" %}
 
-Finally, one car stopped. Guess who??? The only person who stopped for me in Italy was a man whom I had asked before in Genoa airport if he were going direction west. He said that normally he would go directly from the airport to Savona and happily take me, but this time he had to go first to Genoa Hospital so he couldn't...And I'm not too sure if it's something relevat to add, but this only person was not really Italian, but of French origin :thinking_face:.
+Finally, one car stopped. Guess who??? The only person who stopped for me in Italy was a man whom I had asked before in Genoa airport if he were going direction west. He said that normally he would go directly from the airport to Savona and happily take me, but this time he had to go first to Genoa Hospital so he couldn't...And I'm not too sure if it's something relevat to add, but this only person was not really Italian, but of French origin :fr:.
 
 In the whole day I only manage to do 60km by hitchhiking and I still had another 350km upfront to get to my stop for that night (Marseille). It was dark and getting late, so I was kind of giving up hitchhiking and asked to my driver to drop me off in the Savona train station. From there, there was still only one flix bus going to Marseille. I had an hour until the bus would come so, as I like to do, I didn't buy the ticket straightforward and left some time for improvisation. When I got to the train station, I did a quick check to the bin and shortly after one Italian man approached me. He wanted to know if I was a traveler, how I got there, where I was sleeping,... everything! Apparently he always wanted to do this kind of trips but he never got the courage to do it. The time passed and it was time for me to catch the bus if I wanted to get to Marseille that night. I went ahead to the Flixbus website willing to buy the ticket and...surprise! 50€ for a 350km ride! No way, I won't pay that much.
 
@@ -99,7 +99,7 @@ Now, since I arrived to Madrid, I feel burden by all the things that I wanted to
 
 I really feel like moving on, still living in this flat in Madrid feels like stagnation. But I have very good fellow party friends (big up dubmilia!) in Madrid and being involved in eXtinction Rebellion Madrid is something meaningful for me. Also, I know I'll be craving stability very soon in order to get the end of my master in good terms.
 
-Maybe the mountains of Madrid is not a bad option after all? :thinking_face:
+Maybe the mountains of Madrid is not a bad option after all? :thinking:
 
 
 ## Footnotes
