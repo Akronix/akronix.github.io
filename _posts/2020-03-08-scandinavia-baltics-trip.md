@@ -60,9 +60,11 @@ Wow! so It took me hours and hours to just move a scarce amount of 80km within I
 
 Ok, but Nice is still 200km far from Marseille and there's someone waiting for me in there, someone who's got to wake up tomorrow early to go to work. So I thought that it was time to take a more reliable mean of transport.
 
-I couldn't make it on time for the next cheap flix bus Nice - Marseille. It was a time crunch, but I could make it for the last train from Nice to Marseille. The driver had to hurry a bit up, dropped me near a tram stop, I run to the tram stop just in time to catch the next tram direction to the train station and, finally, I got into the train. I hadn't even time to buy the train ticket in the train station, and I wouldn't have bought the ticket in the tram in case I missed the train plus missed the money of the ticket. Some security men, just done with the work of the day, came over where I was sitting down, sat down nearby and started to chat with the security men of the train. I joined the chat and pretended everything was normal. The tickets inspector passed several times in the journey, but never asked me for the ticket! :v:.
+I couldn't make it on time for the next cheap flix bus Nice - Marseille. It was a time crunch, but I could make it for the last train from Nice to Marseille. The driver had to hurry a bit up, dropped me near a tram stop, I run to the tram stop just in time to catch the next tram direction to the train station and, finally, I got into the train. I hadn't even time to buy the train ticket in the train station, and I wouldn't have bought the ticket in the tram in case I missed the train plus missed the money of the ticket. Some security men, just done with the work of the day, came over where I was sitting down, sat down nearby and started to chat with the security men of the train. I joined the chat and pretended everything was normal. The tickets inspector passed several times in the journey, but never asked me for the ticket! :v:[^1].
 
 Very lucky and adventure day! And, even better, I spent near 0€ in the journey from Milano to Marseille!
+
+[^1]: It seems to me that the inspector would rather go after black people, so it might be a case of racism.
 
 ## Feelings and reflections during the trip
 
@@ -92,3 +94,6 @@ Now, since I arrived to Madrid, I feel burden by all the things that I wanted to
 I really feel like moving on, still living in this flat in Madrid feels like stagnation. But I have very good fellow party friends (big up dubmilia!) in Madrid and being involved in eXtinction Rebellion Madrid is something meaningful for me. Also, I know I'll be craving stability very soon in order to get the end of my master in good terms.
 
 Maybe the mountains of Madrid is not a bad option after all?
+
+
+## Footnotes
