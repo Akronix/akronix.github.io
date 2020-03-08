@@ -27,6 +27,10 @@ The transport is classified in hitchhiking, bus, train and mixed. As you can see
 
 ## Viaggiare è il mio peccato
 
+
+{% include image.html position="right" height="500px" url="/static/img/posts/viaggiare_book.jpg" description="Book I found abandoned in the streets of Venice and that matched perfectly with me" %}
+
+
 I want to do a bit of story telling, so I can give you a little sample of how my trip looked like :smiley:.
 
 The most outstanding anecdote with transport I can remember happened in Italy. I was in Venice just before Carnaval, where I got to by hitchhiking from Slovenia, but not without struggle and with some desperation involved. I already spent more days than I planned there in Venice because I was having a good time and I was being very well hosted by an Albanian family, but I wanted to get to France soon because the trip was getting too long already. I was aware that **hitchhiking in Italy is a challenging quest**, so I decided to rent a car from Milano to France by a very cheap offer I found in [driiveme](https://www.driiveme.co.uk/).
@@ -39,6 +43,8 @@ She offered me to go to hers friend birthday's party, *en la campaña* (in the c
 Next day I brought over this Italian girl to the train station of Genoa, left the car in the airport and start asking the people who were waiting for a flight coming from Paris if they were going anywhere direction west. No one could take me, so I did a long walk (mixed with a bit of jogging when I "hitchhiked" a runner going towards the national road, where I was heading to :laughing:) up to a petrol station where I was trying hard to hitchhike **any** car.
 
 Nobody stops in Italy, but they sometimes need to fill the car tank with fuel. By asking a family in the petrol station I got a short ride some kilometers further west near the toll entrance. There, I waited for hours...and hours :cold_sweat:. Eventually, it got dark and my hopes were getting down. I started to think that I wouldn't make it for France another day again and that I'd have to sleep in Italy. But I put on my reflective jacket and kept on trying.
+
+{% include image.html position="left" height="200px" url="/static/img/posts/hhpack_IT_to_FR.jpg" description="Take me out of Italy, pleeeaseee!" %}
 
 Finally, one car stopped. Guess who??? The only person who stopped for me in Italy was a man whom I had asked before in Genoa airport if he were going direction west. He said that normally he would go directly from the airport to Savona and happily take me, but this time he had to go first to Genoa Hospital so he couldn't...And I'm not too sure if it's something relevat to add, but this only person was not really Italian, but of French origin :thinking_face:.
 
@@ -93,7 +99,7 @@ Now, since I arrived to Madrid, I feel burden by all the things that I wanted to
 
 I really feel like moving on, still living in this flat in Madrid feels like stagnation. But I have very good fellow party friends (big up dubmilia!) in Madrid and being involved in eXtinction Rebellion Madrid is something meaningful for me. Also, I know I'll be craving stability very soon in order to get the end of my master in good terms.
 
-Maybe the mountains of Madrid is not a bad option after all?
+Maybe the mountains of Madrid is not a bad option after all? :thinking_face:
 
 
 ## Footnotes

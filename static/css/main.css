@@ -220,3 +220,26 @@ p.tool {
 .project {
   text-decoration: underline;
 }
+
+/* Extra
+-------------------------------------------------- */
+
+figure {
+  background-color: #fff;
+  padding: 15px;
+  font-size: .875em;
+  display: table;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+}
+
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+  background: #fff;
+  padding: 0 16px 16px;
+  text-align: center;
+}​
