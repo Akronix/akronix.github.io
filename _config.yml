@@ -35,7 +35,7 @@ gpguid: 04D567B93E6702F7
 gpglink: http://pgp.librelabucm.org/pks/lookup?op=get&search=0x04D567B93E6702F7
 
 #Comment out if you don't want disqus
-#disqus: username
+disqus: akronix
 #google_analytics: UA-69391421-1
 
 
