@@ -5,6 +5,10 @@ categories: [Personal]
 tags: [reflections, introspective]
 ---
 
+<center>
+{% include image.html position="none" height="200px" url="/static/img/posts/lake.jpg" %}
+</center>
+
 Hace tan solo una semana, una manifestación de cientos de miles de personas por el #8M, el día de la mujer, desfilaba por las principales calles de Madrid [^1]. Otros eventos multitudinarios como el meeting de Vox (contra-evento a la anterior manifestación) junto a todo tipo de fiestas, bares y clubs nocturnos, permanecieron inalterados a pesar de la rápida expansión que el virus COVID-19 ("corona virus") estaba teniendo en Italia.
 
 **En cuestión de una semana la situación social en España ha cambiado de forma drástica**. Todos los eventos han sido cancelados, todos los locales que no son comercios de comida o farmacias han sido cerrados, y el Gobierno ha decretado el Estado de Alarma por el cual no se puede salir a de casa más allá de lo absolutamente necesario: comprar comida, trabajar o pasear al perro. La hiperpoblada ciudad de Madrid nunca había estado tan vacía [^2].
@@ -23,7 +27,9 @@ Pienso que este parón forzado nos va a venir muy bien a cada uno de nosotros co
 
 Os dejo con esta canción que me ha acompañado en mis solitudes:
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFo7rG1ac64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 <br/>
 <center>
