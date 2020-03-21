@@ -93,6 +93,8 @@ Now I'd like to share some of my reflections and feelings during and after this 
 
 Of course, there are many good experiences and positive learnings. Even re-new excitement to meet other parts of the world. But I also considered these downsides while traveling this time...maybe I need a break?
 
+I want to take this opportunity to also **thank all the people** who, in one way or another, have helped me along the journey. It's really hopeful to experience how people can be so helpful benevolently :heart::heart::heart:.
+
 ## Coming back to the real world
 
 Now, since I arrived to Madrid, I feel burden by all the things that I wanted to get done as fast as possible; curiously mixed with other times of plain boredom, where I feel a lack of motivation and loneliness.
