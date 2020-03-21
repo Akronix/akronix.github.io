@@ -17,7 +17,7 @@ Para ello, usaré técnicas de aprendizaje automático, en particular de Deep Le
 
 Finalmente, la idea es presentar una predicción de la calidad del aire para las próximas 24 horas y mostrarla en algún tipo de plataforma web sencilla. Idealmente el servicio contará con una API de modo que se otros servicios o aplicaciones puedan también hacer uso del modelo.
 
-Además, este proyecto, ha de servirme como TFM y será mi primer paso hacia mi trabajo como científico de datos especializado en medio ambiente :heavy_check_mark:.
+Además, este proyecto, ha de servirme como TFM y será mi primer paso hacia [mi futuro profesional como científico de datos especializado en medio ambiente](/professional-future.html) :heavy_check_mark:.
 
 Temía porque el proyecto fuese demasiado ambicioso para los plazos que fija el CUSL, pero acabo de leer [este post](https://concursosoftwarelibre.org/1920/node/50), con lo que entiendo que este año dispondremos de más tiempo para el desarrollo del proyecto :smiley:.
 
