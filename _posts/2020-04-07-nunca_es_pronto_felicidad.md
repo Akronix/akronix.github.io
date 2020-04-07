@@ -6,7 +6,7 @@ tags: [reflections, philosophy, meaning of life, grupo de reflexión]
 ---
 
 <center>
-{% include image.html position="none" height="180px" url="/static/img/posts/felicidad.jpg" description="Definición de felicidad según El Emocionario " %}
+{% include image.html position="none" height="200px" url="/static/img/posts/felicidad.jpg" description="Definición de felicidad según El Emocionario " %}
 </center>
 
 En Julio de 2015, en el que fuera nuestro [grupo de reflexión de Tetuán](https://grupodereflexion.wordpress.com), tuvimos una pequeña excursión al monte en las cercanías de Cercedilla para pasar allí la noche y reflexionar sobre un tema tan profundo y vital como es "El sentido de la vida". Recuerdo la experiencia como muy acogedora y bonita, aunque apenas recuerdo los aprenizajes y conclusiones que saqué de aquel encuentro.
