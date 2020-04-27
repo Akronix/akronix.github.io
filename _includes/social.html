@@ -1,10 +1,15 @@
 <div class="social">
 	<h4>
-    {% if site.github %}
-	  <a href="http://github.com/{{ site.github }}"><i class="fab fa-github"></i></a>
-    {% endif %}
     {% if site.email %}
 	  <a href="mailto:{{ site.email}}"><i class="fa fa-envelope"></i></a>
+    {% endif %}
+
+    {% if site.rss %}
+	  <a href="/atom.xml" title="Subscribe to my RSS feed"><i class="fa fa-rss-square"></i></a>
+    {% endif %}
+
+    {% if site.github %}
+	  <a href="http://github.com/{{ site.github }}"><i class="fab fa-github"></i></a>
     {% endif %}
 
     {% if site.twitter %}
