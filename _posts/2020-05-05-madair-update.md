@@ -16,7 +16,7 @@ La semana pasada básicamente se me fue en conseguir un primer prototipo de mode
 Ayer lunes se me fue un poco de las manos y me pasé todo el día intentando instalar el driver privativo de NVIDIA para mi portátil "de sobremesa" que tiene una humilde tarjeta GPU 710M, la cual yo esperaba poder usar para poder hacer los experimientos y buena parte del desarrollo del proyecto en local. Pero después de instalar y reinstalar ubuntu 3 veces y de probar todo tipo de repositorios e instalaciones, resulta que mi tarjeta ya no está soportada por los últimos drivers y el último driver soportado (390), no soporta ya más allá de CUDA 9 (y tensorflow 2 requiere CUDA 10). Total que no voy a poder hacer el desarrollo en local y encima perdí todo un día de trabajo...
 
 Para esta semana tengo previsto:
-* Documentarme y formarme mejor en cuanto a diseño de modelos LSTM y de RNN en general.
+* Documentarme y formarme mejor en cuanto a diseño de modelos [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory) y de [RNN](https://en.wikipedia.org/wiki/Recurrent_neural_network) en general.
 * Leeré más el libro que compré titulado: [_"Deep Learning with Python"_](https://www.manning.com/books/deep-learning-with-python-second-edition), del creador de Keras.
 * Haré algunos diagramas de los diseños que tengo actualmente y los posibles futuros.
 * Buscaré los mejores parámetros para el modelo mediante herramientas de optimización de hiperparámetros como [Talos](https://github.com/autonomio/talos).
