@@ -2,7 +2,7 @@
 layout: post
 title: ¡Mi proyecto MadAir ha sido aceptado en el CUSL!
 categories: [Projects]
-tags: [MadAir]
+tags: [MadAir, CUSL]
 ---
 
 <center>

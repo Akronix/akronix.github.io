@@ -2,7 +2,7 @@
 layout: post
 title: Actualización sobre MadAir
 categories: [Projects]
-tags: [MadAir]
+tags: [MadAir, CUSL]
 ---
 
 Buenas.
