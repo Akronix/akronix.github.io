@@ -9,7 +9,7 @@ tags: [MadAir, primavera, redes neuronales, CUSL]
 {% include image.html position="none" height="512px" width="288px" url="/static/img/posts/flower_table.jpg" description="Mi centro de mesa para esta semana :D" %}
 </center>
 
-## Introducción primaveral
+## Podrán confinar a toda la humanidad, pero no podrán detener la primavera
 
 ¡Hola!
 
@@ -21,13 +21,13 @@ No obstante, las temperaturas vuelven a bajar, el cielo a nublarse y a duchar la
 
 [Ya escribí anunciando la aceptación de mi proyecto en el Concurso Universitario de Software Libre](/madair-aceptado.html) e [hice un primer avance de mis primeros pasos y de las tecnologías que estoy usando para el proyecto la semana pasada](/madair-update.html). Pero todavía no he explicado debidamente en qué exactamente consiste mi TFM, y creo que ya va siendo hora de que me ponga a ello.
 
-## Motivación
+## Un nuevo horizonte vital como cientifico de datos
 
 Pero antes de meterme de lleno en el asunto, un poco de introducción a el porqué de este proyecto. Como quizás ya algunes de mis lectores sepan, yo venía de dos años trabajando en la universidad como ayudante de investigación entorno a comunidades colaborativas online (wikis). Es un tema que encuentro bonito y en el que no me hubiera sentido mal si hubiera acabado dedicándome por entero a él, [pero esta etapa se tenía que acabar y actualmente estoy --aún-- en tránsito hacia una nueva etapa con otra forma de vida y filosofía](/new-stage.html).
 
 En efecto, mi motivación para hacer este máster en Ciencia de Datos era servirme como [vía de transformación, desde una ocupación más técnica (Ciencias de la computación), a otra que pudiera compaginar con una vida decrecentista, autogestionada y cerca de la naturaleza](/professional-future.html). Para terminar de cerrar el círculo, los temas sobre los que me quiero especializar en lo profesional deben tener que ver con aquello que, de alguna manera, forme parte de mi cotidianiedad y de mis pasiones. Es por eso que el TFM, la culminación de mis estudios de máster, tenía que tener como tema alguna cuestión relacionada con el medio ambiente.
 
-## El tema del proyecto
+## Predicción del aire mediante "Aprendizaje automático"
 
 Cuando llegó la hora de elegir el tema del proyecto, el proceso no fue inmediato. Explore varias opciones y tuve algunas dificultades para finalmente conseguir un tema y un tutor. Pasé por nada menos que tres posibles tutores, antes de finalmente y a última hora, cerrar el proyecto de predicción de la calidad del aire.
 
@@ -35,7 +35,7 @@ Lo cierto es que este tema me atañe personalmente puesto que desde siempre, per
 
 En mi caso, me he querido centrar únicamente en la ciudad de Madrid, que es la que mejor conozco. Los datos están ahí públicados en el [portal de datos abiertos del ayuntamiento de Madrid](https://datos.madrid.es/) y hay un [sitio web especifico que muestra los datos de cada estación en tiempo real](http://www.mambiente.madrid.es/sica/scripts/index.php). Y sí, existe un servicio de predicción de la calidad del aire que además da predicciones no solo de toda la península Ibérica, sino también de toda Europa, llamado [CALIOPE](http://www.bsc.es/caliope/es). CALIOPE es un sistema muy complejo que funciona en base a la modelización de los fenómenos meteorológicos, atmosféricos, químicos y termodinámicos en el aire para predecir la concentración de los contaminantes que habrá en las próximas horas o días cercanos.
 
-Aunque dicho sistema es útil para dar pronósticos de cualquier localización a cualquier resolución, un sistema de aprendizaje automático en base al histórico de los datos y a otras variables puede dar mejores resultados cuando se trata de hacer predicciones en aquellas localizaciones donde están ubicadas las estaciones que miden la contaminación en el aire[^1]. Y en eso básicamente consiste mi trabajo.
+Si bien bicho sistema es útil para dar pronósticos de cualquier localización a cualquier resolución, las técnicas de aprendizaje automático --usando como base el histórico de los datos y otras variables-- pueden dar mejores resultados, en particular cuando se trata de hacer predicciones en aquellas localizaciones donde están ubicadas las estaciones que miden la contaminación en el aire[^1]. Y en eso básicamente consiste mi trabajo.
 
 Para que quede más visual, un diagrama simplificado del modelo que estoy desarrollando para hacer las predicciones sería el siguiente:
 
@@ -45,7 +45,7 @@ Para que quede más visual, un diagrama simplificado del modelo que estoy desarr
 
 [^1]: No obstante, existen métodos estadísticos y otros de interpolación espacial mediante los cuales se podrían extender estas predicciones a cualquier punto de la ciudad y hacer estimaciones globales. Lamentablemente, aunque tengo los conocimientos necesarios para realizar esas técnicas, no creo que tenga tiempo material para llevarlos a cabo.
 
-## Estado actual
+## Primeros pasos con redes neuronales artificiales
 
 Hasta ahora realmente lo que he estado haciendo es formándome, leyendo documentación y haciendo experimentos. Como resultado de lo anterior, lo que tengo ahora mismo es lo que he llamado "Prototipo 0", que es un modelo muy simple y un tanto alejado de lo que quiero conseguir finalmente, pero que ya trabaja con los datos históricos de calidad del aire y hace predicción en base a ellos.
 
