@@ -6,7 +6,7 @@ tags: [MadAir, primavera, redes neuronales, CUSL]
 ---
 
 <center>
-{% include image.html position="none" height="500px" url="/static/img/posts/flower_table.jpg" description="Mi centro de mesa para esta semana :D" %}
+{% include image.html position="none" height="512px" width="288px" url="/static/img/posts/flower_table.jpg" description="Mi centro de mesa para esta semana :D" %}
 </center>
 
 ## Introducción primaveral
@@ -37,17 +37,19 @@ En mi caso, me he querido centrar únicamente en la ciudad de Madrid, que es la 
 
 Aunque dicho sistema es útil para dar pronósticos de cualquier localización a cualquier resolución, un sistema de aprendizaje automático en base al histórico de los datos y a otras variables puede dar mejores resultados cuando se trata de hacer predicciones en aquellas localizaciones donde están ubicadas las estaciones que miden la contaminación en el aire[^1]. Y en eso básicamente consiste mi trabajo.
 
+Para que quede más visual, un diagrama simplificado del modelo que estoy desarrollando para hacer las predicciones sería el siguiente:
+
+<center>
+{% include image.html position="none" height="500px" url="/static/img/posts/MadAir_disenio_general.png" %}
+</center>
+
 [^1]: No obstante, existen métodos estadísticos y otros de interpolación espacial mediante los cuales se podrían extender estas predicciones a cualquier punto de la ciudad y hacer estimaciones globales. Lamentablemente, aunque tengo los conocimientos necesarios para realizar esas técnicas, no creo que tenga tiempo material para llevarlos a cabo.
 
 ## Estado actual
 
 Hasta ahora realmente lo que he estado haciendo es formándome, leyendo documentación y haciendo experimentos. Como resultado de lo anterior, lo que tengo ahora mismo es lo que he llamado "Prototipo 0", que es un modelo muy simple y un tanto alejado de lo que quiero conseguir finalmente, pero que ya trabaja con los datos históricos de calidad del aire y hace predicción en base a ellos.
 
-Este prototipo 0 consiste básicamente en un modelo que predice el valor de contaminación de NO² que habrá en la siguiente hora, a partir de los valores registrados en las 23 horas anteriores. Para los que quieran más detalles técnicos, en la siguiente imagen tenéis un esquema de la implementación:
-
-<center>
-{% include image.html position="none" height="500px" url="/static/img/posts/MadAir_Prototipo0.png" description="Esquema Prototipo 0 MadAir" %}
-</center>
+Este prototipo 0 consiste básicamente en un modelo que predice el valor de contaminación de NO² que habrá en la siguiente hora, a partir de los valores registrados en las 23 horas anteriores.
 
 Así pues, usando una red neuronal algo compleja (pero no mucho) y entrenándola con los datos de tres meses, consigo una tasa de error bastante aceptable. El modelo solamente da predicciones menos exactas cuando aparecen picos repentinos de contaminación, que difícilmente serían predecibles usando únicamente los datos anteriores.
 
