@@ -143,6 +143,11 @@ h1, h2, h3 {
 .social h4 > a {
   color: #000000;
 }
+
+.carbonbadge {
+  padding-top: 12px;
+}
+
 .avatar {
   padding-top: 5%;
 }
