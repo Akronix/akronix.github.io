@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Primera semana en Arterra
+title: Primeros días en Arterra
 categories: [Personal]
 tags: [Arterra, ecoaldeas]
 ---
