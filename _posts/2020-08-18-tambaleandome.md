@@ -20,12 +20,14 @@ Hoy he leído un párrafo del libro "Sentados en el fuego" de Arnold Mindell que
 
 > Todo poder, sea bueno o malo, si no se reconoce, puede convertirse en algo opresivo e hiriente. Un ejemplo de poder oculto, propio de la mayoría dominante, es la asunción, generalmente no expresada, de que los oprimidos tienen que intentar resolver sus problemas de una manera amable, a pesar de que parece evidente que alguien que se siente oprimido no tiene normalmente ningún interés en resolver sus problemas amablemente. Este poder permanece casi siempre oculto e inconsciente. Está presente en casi todos los grupos y puede llegar a ser tan opresivo que muchas veces sólo se equilibra con otros poderes, como la rebelión.
 
+
+A lo que me surge otra nueva reflexión que puedo manifestar en esta frase: "Entender el problema no significa tener la solución".
+
 _..._
 
-Supongo que escribo esto, aquí en mi blog, porque necesito sacarlo fuera de alguna manera y simplemente escribirlo en el diario todavía sigue siendo guardarlo dentro. Ojalá hubiera aquí donde estoy un buzón de feedback donde poder relatar situaciones que has vivido y soltarlas hacia afuera, equivalente al _shouting box_ que teníamos en ecotopia...Quizás algún día me avergüence y borre lo que aquí he escrito. De momento me sirve de deshaogo.
+Supongo que escribo esto, aquí en mi blog, porque necesito sacarlo fuera de alguna manera y simplemente escribirlo en el diario todavía sigue siendo guardarlo dentro. Ojalá hubiera aquí donde estoy un buzón de feedback donde poder relatar situaciones que has vivido y soltarlas hacia afuera, equivalente al _shouting box_ que teníamos en ecotopia...
 
-Para terminar, dejo una última frase para la reflexión:
+Quizás algún día me avergüence y borre lo que aquí he escrito. De momento me sirve de deshaogo.
 
-"Entender el problema no significa tener la solución".
-
+Un saludo, Abel.
 
