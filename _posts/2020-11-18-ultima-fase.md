@@ -17,6 +17,39 @@ No soy muy de hacer planes a medio-largo plazo, y, aunque los haga, sé que lueg
 
 Mis últimos días han sido algo tristes. Veo que el grupo al que más pertenencia debiera tener hace sus propios planes, quedándome yo al margen. Por otra parte, la conexión que tuve en Cataluña se va difuminando por el desgaste del tiempo y de la imposibilidad de no vernos. [La introspección de Otoño](otonio.html) ya me ha cansado. Además, tengo muchas ganas de volver a Madrid y ver a caras y almas conocidas. Puede que esta última fase sea dura, larga, aunque ya me he propuesto varios objetivos y actitudes que espero que hagan que valga la pena este escaso mes y medio que me queda de voluntariado aquí.
 
+
+Para terminar, dejo con estas estrofas que viene a colación de mi situación actual extraídos de la canción "Ira Dei" de Mägo de Oz:
+
+    ¿Dónde está mi lugar?
+    Me busco y no logro hallarme, me pierdo dentro de mí
+    No quiero despertar
+    Quiero dejar de llorar.
+
+
+    Quejumbrosa la ciudad
+    Le arropa antes de dormir
+    Camas hechas de cartón
+    Por sabana una voz
+    Que le arropará, dará su calor
+    Antes de irse a dormir
+    Y su cuerpo se rindió
+    Cansada de buscar
+    Una sonrisa en su caminar
+    Antes del viaje final.
+
+
+    ¿Dónde está mi lugar?
+    Me busco y no logro hallarme, me pierdo dentro de mí
+    No quiero despertar
+    Quiero dejar de llorar
+
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mueiby-Cbss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+---
+
+
 Un abrazo,
 
 ~ Abel ~
