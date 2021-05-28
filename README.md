@@ -49,6 +49,8 @@ Feel free pull-request your patches and fixes.
 ## Thanks
 
 Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
+Favicon ["herb" from Openemoji 13.0](https://emojipedia.org/openmoji/13.0/) with license Creative Commons [Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
+
 
 
 ## Copyright & License
