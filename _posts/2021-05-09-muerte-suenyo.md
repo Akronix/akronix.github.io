@@ -41,7 +41,7 @@ Todavía necesito resolver varias cuestiones personales que no he gestionado del
 
 Quizás algún día cambie la situación, de una manera u otra, se torne diferente y me plantee otras cosas. De momento esta es mi decisión.
 
-Todavía creo que nos volveremos a ver porque el espíritu de mi joven salvaje, idealista e infatigable tiene aquí su hogar. Hasta la vista Artaso. :smiling_face_with_tear:
+Todavía creo que nos volveremos a ver porque el espíritu de mi joven salvaje, idealista e infatigable tiene aquí su hogar. Hasta la vista Artaso 🥲
 
 Os regalo un abrazo de amor sincero como los que se dan aquí a diario 🤗.
 
