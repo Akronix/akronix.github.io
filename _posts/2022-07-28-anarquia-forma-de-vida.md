@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anarquía - Una forma de vida
+title: Anarquía como forma de vida
 categories: [Personal]
 tags: [anarquia, anarquismo, ecoaldeas, vida en el campo]
 youtubeId: zaxY3Npj7rw
