@@ -6,7 +6,7 @@ tags: [Invierno, 2021, Aragón]
 ---
 
 <center>
-{% include image.html position="none" height="550px" url="/static/img/posts/hito.jpg" description="Mi primer &quot;hito&quot;, colocado para señalar un camino." %}
+{% include image.html position="none" width="400px" url="/static/img/posts/hito.jpg" description="Mi primer &quot;hito&quot;, colocado para señalar un camino." %}
 </center>
 
 Requiere entrenamiento escuchar nuestra intución y nuestras emociones que, de alguna manera, son la que nos invitan a tomar unas u otras decisiones.

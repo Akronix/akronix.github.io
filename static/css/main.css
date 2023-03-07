@@ -228,6 +228,9 @@ p.tool {
 
 /* Extra
 -------------------------------------------------- */
+img {
+  max-width: 100% !important;
+}
 
 figure {
   background-color: #fff;
@@ -246,4 +249,5 @@ figcaption {
   background: #fff;
   padding: 0 16px 16px;
   text-align: center;
-}​
+}
+

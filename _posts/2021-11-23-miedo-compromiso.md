@@ -6,7 +6,7 @@ tags: [Invierno, 2021, Aragón]
 ---
 
 <center>
-{% include image.html position="none" height="480px" url="/static/img/posts/huella.jpg" description="Huella de tejón. En el camino en dirección hacia Artaso" %}
+{% include image.html position="none" width="360px" url="/static/img/posts/huella.jpg" description="Huella de tejón. En el camino en dirección hacia Artaso" %}
 </center>
 
 Hacer otro plan más, que la vida diga que no, que no y que no, y tener que jugar con la siguiente pieza del [tetrix vital que te caiga](/tetrix.html). Así sigue presentándose mi devenir.

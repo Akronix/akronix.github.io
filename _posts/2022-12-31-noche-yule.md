@@ -6,7 +6,7 @@ tags: [navidad, introspección, noche de Yule, serenidad]
 ---
 
 <center>
-{% include image.html position="none" height="650px" url="/static/img/posts/fuego_changa_verde.jpeg" %}
+{% include image.html position="none" width="480px" url="/static/img/posts/fuego_changa_verde.jpeg" %}
 </center>
 
 Previamente a la celebración cristiana de la navidad, existían otras celebraciones entorno al solsticio de invierno. En los pueblos nórdicos ésta se conocía como [las fiestas de Yule](https://es.wikipedia.org/wiki/Yule).

@@ -6,7 +6,7 @@ tags: [Futuro, propósitos]
 ---
 
 <center>
-{% include image.html position="none" height="400px" url="/static/img/posts/cascada_piscina_la_vera.jpeg" %}
+{% include image.html position="none" width="710px" url="/static/img/posts/cascada_piscina_la_vera.jpeg" %}
 </center>
 
 Hace tiempo que no publico nada aquí, creo que tengo demasiadas ideas y experiencias sueltas, pero nada demasiado grande como para relatarlo. Quizás sería más propio tener una cuenta de instagram, ir publicando las experiencias fugaces e ir curioseando a las ajenas. Parece ser que es lo que se lleva ahora 😆. Sí veo que estoy con mis propios procesos internos, añadiendo consciencia a lo que no me hace bien y quiero soltar en mi vida. También añadiendo consciencia a lo que sí me sienta bien y hacer que esas cosas estén más presentes.

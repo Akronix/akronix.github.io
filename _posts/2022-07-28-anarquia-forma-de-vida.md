@@ -7,7 +7,7 @@ youtubeId: zaxY3Npj7rw
 ---
 
 <center>
-{% include image.html position="none" height="550px" url="/static/img/posts/solanilla.jpg" description="Una foto del paisaje que veo al salir de mi habitación desde el pueblo okupado donde vivo ahora" %}
+{% include image.html position="none" width="710px" url="/static/img/posts/solanilla.jpg" description="Una foto del paisaje que veo al salir de mi habitación desde el pueblo okupado donde vivo ahora" %}
 </center>
 
 Mi padre una vez me dijo que el anarquismo no es una ideología, es una forma de vida.

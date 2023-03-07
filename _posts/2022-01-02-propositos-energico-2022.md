@@ -6,7 +6,7 @@ tags: [Futuro, propósitos]
 ---
 
 <center>
-{% include image.html position="none" height="550px" url="/static/img/posts/capa_solanilla.jpg" description="Yo con mi capa en el pueblo de Solanilla. Primera gran nevada del año en Diciembre 2021." %}
+{% include image.html position="none" width="710px" url="/static/img/posts/capa_solanilla.jpg" description="Yo con mi capa en el pueblo de Solanilla. Primera gran nevada del año en Diciembre 2021." %}
 </center>
 
 Como en el final de cada año, me gusta hacer un repaso y reflexión sobre cómo ha ido mi último año y qué espero para el venidero.

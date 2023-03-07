@@ -6,7 +6,7 @@ tags: [cuerpo, emociones, espíritu]
 ---
 
 <center>
-{% include image.html position="none" height="650px" url="/static/img/posts/portada_una_trenza.jpeg" description="Portada del libro que me estoy leyendo ahora: Una trenza de hierba sagrada de la botánica indígena Robin Wall Kimmerer. Cada capítulo es un super inspirador a la par que bello." %}
+{% include image.html position="none" width="650px" url="/static/img/posts/portada_una_trenza.jpeg" description="Portada del libro que me estoy leyendo ahora: Una trenza de hierba sagrada de la botánica indígena Robin Wall Kimmerer. Cada capítulo es un super inspirador a la par que bello." %}
 </center>
 
 > El académico nativo Greg Cajete ha escrito que en las formas de conocimiento indígenas una cosa solo llega a comprenderse cuando se comprende con los cuatro aspectos de nuestro ser: la mente, el cuerpo, la emoción y el espíritu. Al comenzar mis estudios se me hizo evidente que la ciencia favorece una de ellas, o dos, como mucho: la mente y el cuerpo. Entonces era joven y quería saberlo todo acerca de las plantas, así que no cuestioné ese modo de conocimiento. Pero al hombre solo se le muestra la hermosura del camino cuando lo recorre en su propia plenitud.

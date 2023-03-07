@@ -6,7 +6,7 @@ tags: [Verano, 2021, Artaso, Guadalajara, sueños, felicidad]
 ---
 
 <center>
-{% include image.html position="none" height="480px" url="/static/img/posts/penya_oropel_c.jpg" description="Yo en la cumbre del Oroel" %}
+{% include image.html position="none" width="640px" url="/static/img/posts/penya_oropel_c.jpg" description="Yo en la cumbre del Oroel" %}
 </center>
 
 

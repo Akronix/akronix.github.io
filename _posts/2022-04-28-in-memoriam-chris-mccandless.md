@@ -7,7 +7,7 @@ youtubeId: Bme8NUv8LCI
 ---
 
 <center>
-{% include image.html position="none" height="400px" url="/static/img/posts/Chris_McCandless_RIP.jpg" %}
+{% include image.html position="none" width="530px" url="/static/img/posts/Chris_McCandless_RIP.jpg" %}
 </center>
 
 [Today, 28th of April](https://en.wikipedia.org/wiki/Chris_McCandless#Alaska) is the 30th anniversary since Christopher McCandless, alias Alexander Supertramp, decided to abandon civilization and go to live _into the wild_ until his last days. I want to remember his boldness and determination to leave society and follow his call to find "absolute freedom".
