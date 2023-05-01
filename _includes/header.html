@@ -1,15 +1,32 @@
-<nav class="navbar navbar-default">
+<div id="menu-mobile-displayer">
+  <a href="javascript:void(0);" class="icon" onclick="displayMenu()">
+    <i id="menu-icon" class="fa fa-bars"></i>
+  </a>
+</div>
+
+
+<nav id="menu" class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
       <a class="navbar-brand" href="/"><i class="fa fa-home"></i></a>
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{ site.baseurl }}blog.html">BLOG</a></li>
-        <li><a href="{{ site.baseurl }}projects.html">PROJECTS</a></li>
-        <li><a href="{{ site.baseurl }}tools.html">TOOLS</a></li>
-        <li><a href="{{ site.baseurl }}publications.html">PUBLICATIONS</a></li>
-        <li><a href="/">ABOUT ME</a></li>
+        <li {% if page.url contains "blog" %} class="activo" {% endif %}>
+          <a href="{{ site.baseurl }}blog.html">BLOG</a>
+        </li>
+        <li {% if page.url contains "projects" %} class="activo" {% endif %}>
+          <a href="{{ site.baseurl }}projects.html">PROJECTS</a>
+        </li>
+        <li {% if page.url contains "tools" %} class="activo" {% endif %}>
+          <a href="{{ site.baseurl }}tools.html">TOOLS</a>
+        </li>
+        <li {% if page.url contains "publications" %} class="activo" {% endif %}>
+          <a href="{{ site.baseurl }}publications.html">PUBLICATIONS</a>
+        </li>
+        <li {% if page.url == "/" %} class="activo" {% endif %}>
+          <a href="/">ABOUT ME</a>
+        </li>
 <!--
         <li><a href="http://jekyller.github.io/vitae">RESUME</a></li>
 -->

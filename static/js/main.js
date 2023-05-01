@@ -11,4 +11,15 @@ jQuery(document).ready(function(e) {
     })
 });
 
+function displayMenu() {
+  var x = document.getElementById("menu");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+    document.getElementById("menu-icon").className = "fa fa-bars";
+  } else {
+    x.style.display = "block";
+    document.getElementById("menu-icon").className = "fa fa-times";
+  }
+}
+
 

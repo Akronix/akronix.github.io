@@ -6,7 +6,7 @@ body {
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27A822;
+  border-top: 3px solid #5cb85c;
 }
 /* Wrapper for page content to push down footer */
 #wrap {
@@ -21,6 +21,53 @@ body {
 
 /* Navbar
 -------------------------------------------------- */
+
+/* If the screen size is 600px wide or less, hide the navbar and show the mobile menu */
+@media only screen and (max-width: 767px) {
+  nav, .navbar-header, navbar{
+    display: none;
+    background-color: #5cb85c !important;
+    border: none !important;
+  }
+  .navbar-default .navbar-nav > li > a {
+    color: white !important; 
+  }
+  #menu-mobile-displayer {
+    display: block;
+  }
+  li.activo > a{
+    background-color: yellowgreen !important;
+  }
+}
+
+#menu-mobile-displayer a.icon {
+  color: white;
+  font-size: 25px;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin: 3px 3% 10px 0;
+}
+
+#menu-mobile-displayer {
+  background-color: #5cb85c;
+  min-height: 35px;
+  padding: 10px;
+}
+
+@media only screen and (min-width: 768px) {
+  #menu-mobile-displayer {
+    display: none;
+  }
+  nav, .navbar-header, navbar{
+    display: block !important;
+  }
+  li.activo > a{
+    color: #27a822 !important;
+  }
+}
+
 
 .navbar-static-top {
   margin-bottom: 10px;
