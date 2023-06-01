@@ -28,7 +28,7 @@ Alexa! una consulta!:<br>
 "¿Cómo va a afectar tu residuo al ecosistema<br>
 cuando estés caduco y seas objeto anatema?"<br>
 
-ChatGPT, me resolverías esta:<br>
+ChatGPT, ¿me resolverías esta?:<br>
 
 "¿Qué genera la IA como solución<br>
 para revertir la emisión de su propIA contaminación?"<br>
