@@ -2,7 +2,7 @@
 layout: post
 title: Funeral de mi yo político
 categories: [Personal]
-tags: [Futuro]
+tags: [Política]
 ---
 
 <center>
@@ -17,7 +17,7 @@ Decepcionado de ver cómo el lugar que en más alta estima tenía me ha fallado 
 
 Como dice aquella canción del sabio Paradoxus: "las ideas son opresivas y embusteras".
 
-La sociedad cambia para bien, si las personas crecen y cambian.
+La sociedad cambia para bien, si las personas se dan cuenta y, crecen y cambian, y a esos cambios se accede desde la conexión humana, desde lo emocional y eso que hay más profundo de la emoción. No imponiendo, siguiendo ideas políticas o convenciendo a los demás a través de la mente.
 
 Desde ahora reniego de todo signo político y me declaro apolítico.
 
