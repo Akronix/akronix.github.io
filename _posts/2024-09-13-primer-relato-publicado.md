@@ -19,7 +19,7 @@ Este es el primero de cuatro relatos que escribí el curso pasado, y el primero 
 
 Iré pubĺicando más según llegue el momento, y escribiendo según llegue la inspiración.
 
-Ahora estoy embarcado en otro proyecto. DruidNet. Pero de eso os hablaré en otro post.
+Ahora estoy embarcado en otro proyecto: DruidNet. Pero de eso os hablaré en otro post.
 
 Un saludo desde la huerta de otoño,
 
