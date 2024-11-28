@@ -13,7 +13,11 @@ tags: [druidnet, publicación]
 
 La podéis buscarla directamente como "DruidNet" o usar este link:
 
-[![get it on play store](/static/img/posts/get_it_play_store.png)](https://play.google.com/store/apps/details?id=org.druidanet.druidnet)
+<figure class="image" style="float: none;">
+  <a href="https://play.google.com/store/apps/details?id=org.druidanet.druidnet">
+    <img max-height="" max-width="" src="/static/img/posts/get_it_play_store.png" alt="get it on play store">
+  </a>
+</figure>
 
 ¡Espero que os guste! 😃
 
