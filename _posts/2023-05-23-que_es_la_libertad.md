@@ -41,5 +41,5 @@ Aquí se acaba una etapa más en Madrid. Una etapa que nunca planeé que fuese a
 Una vez más, ahora camino hacia lo salvaje.
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sdf152L-D3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/sdf152L-D3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>

@@ -22,5 +22,5 @@ La sociedad cambia para bien, si las personas se dan cuenta y, crecen y cambian,
 Desde ahora reniego de todo signo político y me declaro apolítico.
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IDRhn1mtxDQ?si=DY7xqZuMD5JsY5vn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/IDRhn1mtxDQ?si=DY7xqZuMD5JsY5vn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>

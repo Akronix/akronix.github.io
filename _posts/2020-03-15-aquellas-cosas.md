@@ -28,7 +28,7 @@ Pienso que este parón forzado nos va a venir muy bien a cada uno de nosotros co
 Os dejo con esta canción que me ha acompañado en mis solitudes:
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFo7rG1ac64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/ZFo7rG1ac64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 <br/>

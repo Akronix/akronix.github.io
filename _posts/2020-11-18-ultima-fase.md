@@ -45,7 +45,7 @@ Para terminar, dejo con estas estrofas que viene a colación de mi situación ac
 
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mueiby-Cbss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe max-width="560" max-height="315" src="https://www.youtube.com/embed/mueiby-Cbss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 ---
 
