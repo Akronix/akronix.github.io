@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2025 ~ Un año cuadrado.
+title: 2025 ~ Un año cuadrado
 categories: [Personal]
-tags: [vida, muerte, maleza, plantas]
+tags: [viajes,repaso,comunidad]
 ---
 
 <center>
@@ -15,7 +15,7 @@ Este año lo comencé en la playa de Alberquillas (Nerja, Málaga), un sitio mar
 
 Y ahora ya empiezo a estar cansado de tanto movimiento, pero todavía me queda un poco para exprimir de este momento viajero. Mañana subo de nuevo al pirineo aragonés a pasar un ciclo lunar en la naturaleza con mi familia arcoiris. Después, tengo un viaje pendiente a Grecia y la idea es regresar navegando el Mediterráneo en un velerito.
 
-Me cuesta imaginar un verano sin huerta. A partir de Agosto, intentaré buscar una comunidad donde tomar un poco de tierra y echar raíces.
+Me cuesta imaginar un verano sin huerta. A partir de Agosto, intentaré buscar una comunidad donde tomar un poco de tierra y hacer vida rural por un tiempo.
 
 -----
 
