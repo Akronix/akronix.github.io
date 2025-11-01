@@ -6,7 +6,7 @@ tags: [muerte, todos los santos, samhain, halloween]
 ---
 
 <center>
-{% include image.html position="none" height="400px" url="/static/img/posts/lapida.jpg" description="Nosotros decidimos cómo queremos que nos recuerden cuando los demás vean nuestra lápida" %}
+{% include image.html position="none" height="550px" url="/static/img/posts/lapida.jpg" description="Nosotros decidimos cómo queremos que nos recuerden cuando los demás vean nuestra lápida" %}
 </center>
 
 La muerte está siempre ahí, al acecho. Recordándonos que lo que no hagamos en esta vida, puede que no podamos hacerlo nunca. _**Memento mori**_.
